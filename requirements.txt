@@ -1,0 +1,4 @@
+# Streamlit Community Cloud installs dependencies from this file.
+streamlit
+supabase
+python-dotenv

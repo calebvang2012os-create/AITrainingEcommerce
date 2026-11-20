@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "skills": {
+    "developing-with-streamlit": {
+      "source": "streamlit/agent-skills",
+      "commit": "c69a265613f17cdd69d42e6f67b704214178fae5",
+      "sourceType": "github",
+      "skillPath": "developing-with-streamlit/SKILL.md",
+      "computedHash": "f3a8a72566b27db4972db92d23cb59a944c10c9c5769f6bfb35d295472cdf397",
+      "installMode": "copy"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "sourceType": "github",
+      "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
+      "computedHash": "3eb972c2d7c818e544e35cc33ea8d7147d4d78ae08142ef40037b0fbac7a2505",
+      "installMode": "copy"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "2de1134dc4d1cfe112934611ae5803ae17a1bd7e",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "605686282fb6812d8e3f4b1a06c9fb8ba7be4d7395090f41f221a9ba5a3dbe6b",
+      "installMode": "copy"
+    }
+  }
+}
